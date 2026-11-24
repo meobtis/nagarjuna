@@ -13,3 +13,5 @@ The Sanskrit of two Sanskrit–Tibetan–Chinese critical editions of works of N
 Only the Sanskrit is given. The Tibetan and Chinese texts, translations, introductions, notes and apparatus are not
 reproduced. Please cite the printed editions. The text was taken from Markdown conversions of the books and is
 marked `plain: true` (show as printed).
+
+[comparison/mmk-ye-2011-vs-other-texts.md](comparison/mmk-ye-2011-vs-other-texts.md) compares Ye's *Mūlamadhyamakakārikā* verse by verse with the GRETIL, DSBC and BDRC texts.
