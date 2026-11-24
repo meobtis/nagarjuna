@@ -547,7 +547,7 @@ na tāvat svakṛtaṃ duḥkhaṃ na hi tenaîva tat kṛtam |
 paro nâtmakṛtaś cet syād duḥkhaṃ parakṛtaṃ katham || 12.7
 
 syād ubhābhyāṃ kṛtaṃ duḥkhaṃ syād ekaikakṛtaṃ yadi |
-parākārāsvayaṃkāraṃ duḥkham āhetukaṃkutaḥ || 12.8
+parākārāsvayaṃkāraṃ duḥkham āhetukaṃ kutaḥ || 12.8
 
 na kevalaṃ hi duḥkhasya cāturvidhyaṃ na vidyate |
 bāhyānām api bhāvānāṃ cāturvidhyaṃ na vidyate || 12.9

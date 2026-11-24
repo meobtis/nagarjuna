@@ -20,6 +20,7 @@ Two things stand out. First, GRETIL and the BDRC critical text agree with each o
 **Verse order and division.** Ye's chapter 1 has the verses 1.2 and 1.3 of the other texts in the opposite order (his notes say that the commentaries from Buddhapālita onward exchange them, and his text follows that order). In chapter 21 the verse division differs (21.8–21.11). The texts based on the older numbering have one more verse than Ye's numbered text in each of chapters 3 (3.7, in GRETIL and the BDRC text only), 12 (12.6) and 23 (23.20), so their later verses are numbered one higher. Ye prints the chapter 12 verse as a starred verse, "12.5*" (`parapudgalajaṃ duḥkhaṃ yadi kaḥ parapudgalaḥ …`), noting that it is in the Sanskrit manuscript, de Jong's and Poussin's editions and two commentaries, but not in the Tibetan translations or in several earlier commentaries; the other two verses are not in his edition. The DSBC text has the 12.6 verse in brackets (and the 23.20 verse), and has no 3.7. The aligned lists below show these verses as present in only one text.
 
 
+
 ## Ye 2011 against GRETIL
 
 | Ye verse | Other verse | Difference (Ye → other) |
