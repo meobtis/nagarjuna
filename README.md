@@ -1,13 +1,15 @@
 # nagarjuna
 
-The Sanskrit of two Sanskrit–Tibetan–Chinese critical editions of works of Nāgārjuna by Ye Shaoyong and Li Xuezhu
-(Sanskrit–Tibetan–Chinese Buddhist Texts Series, ed. Duan Qing and Shi Liaoyi; Shanghai: Zhongxi Book Company), for the
+The Sanskrit of critical editions of works of Nāgārjuna with Tibetan and Chinese: Ye Shaoyong's *Mūlamadhyamakakārikā* and
+Li Xuezhu and Ye Shaoyong's *Yuktiṣaṣṭikākārikā* (Sanskrit–Tibetan–Chinese Buddhist Texts Series; Shanghai: Zhongxi Book
+Company), and Phurtsham's *Ratnāvalī* (Lhasa: Tibetan Classics Publishing House), for the
 [MEOBTIS](https://meobtis.github.io) index of Buddhist texts in Sanskrit.
 
 | File | Edition |
 |---|---|
 | [mulamadhyamakakarika-ye-2011.md](texts/romanized/mulamadhyamakakarika-ye-2011.md) | Ye Shaoyong (2011), *Mūlamadhyamakakārikā*, Series no. 1: the editor's critical Sanskrit text of all 27 chapters |
 | [yuktisastikakarika-li-ye-2014.md](texts/romanized/yuktisastikakarika-li-ye-2014.md) | Li Xuezhu and Ye Shaoyong (2014), *Yuktiṣaṣṭikākārikā*, Series no. 2: the Sanskrit that survives of the verses |
+| [ratnavali-phurtsham.md](texts/romanized/ratnavali-phurtsham.md) | Phurtsham (普仓), *Ratnāvalī*: critical edition of the Sanskrit manuscript from Xizang (Drepung manuscript, collated with the Nepalese fragments), all five chapters (504 verses numbered as in the edition) and the manuscript's colophon |
 | [yuktisastikavrtti-fragments-li-ye-2014.md](texts/romanized/yuktisastikavrtti-fragments-li-ye-2014.md) | The same volume's appendix: Sanskrit fragments of Candrakīrti's *Yuktiṣaṣṭikāvṛtti* |
 
 Only the Sanskrit is given. The Tibetan and Chinese texts, translations, introductions, notes and apparatus are not
