@@ -13,6 +13,8 @@ Company), Phurtsham's *Ratnāvalī* (Lhasa: Tibetan Classics Publishing House) a
 | [yuktisastikavrtti-fragments-li-ye-2014.md](texts/romanized/yuktisastikavrtti-fragments-li-ye-2014.md) | The same volume's appendix: Sanskrit fragments of Candrakīrti's *Yuktiṣaṣṭikāvṛtti* |
 | [vigrahavyavartani-yonezawa-2008.md](texts/romanized/vigrahavyavartani-yonezawa-2008.md) | Yoshiyasu Yonezawa (2008), *Vigrahavyāvartanī*: transliteration of the complete Tibet Museum manuscript (7 leaves), verses 1–70 with the author's commentary and colophon |
 
+Together these are the complete set of critical editions of the works of Nāgārjuna that survive in Sanskrit.
+
 Only the Sanskrit is given. The Tibetan and Chinese texts, translations, introductions, notes and apparatus are not
 reproduced. Please cite the printed editions. The text was taken from Markdown conversions of the books and is
 marked `plain: true` (show as printed).
